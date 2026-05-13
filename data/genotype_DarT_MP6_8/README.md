@@ -16,4 +16,5 @@
 - SNPs are encoded as nucleotide calls (e.g., A, T, G, C)
 - Missing values may be present (`NA`)
 - No additional filtering (e.g., MAF or missingness thresholds) has been applied
+- Hapmap containg chromosome and position information
 
